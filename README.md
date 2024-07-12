@@ -2,7 +2,7 @@
 A cold, dark & frosty theme.
 > This is a remake of the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
 
-![Preview](https://i.imgur.com/xSG96qa.png)
+![Preview]([https://i.imgur.com/xSG96qa.png](https://imgur.com/a/K1AQHff))
 
 ## Download
 - BetterDiscord: https://betterdiscord.app/theme/Dark%20Matter
